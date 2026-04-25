@@ -70,14 +70,18 @@ The network was built using Cisco technologies with a focus on scalability, secu
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
+- ## Network Topology
+![Topology](network.png)
+
 
 ---
 
-## 📂 Files Included
-- Packet Tracer File (.pkt)
-- Configuration Files
-- Screenshots
+## 📂 Project Files
+
+- 📦 [Download Packet Tracer File](project.pkt)  
+- ⚙️ Device Configurations file
+
+- 📄 [View Full Report](report.pdf)
 
 ---
 
@@ -89,5 +93,4 @@ The network was built using Cisco technologies with a focus on scalability, secu
 
 
 
-- ## Network Topology
-![Topology](network.png)
+
