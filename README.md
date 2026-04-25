@@ -86,5 +86,8 @@ The network was built using Cisco technologies with a focus on scalability, secu
 - Implemented full security features
 - Achieved high availability and redundancy
 - Hands-on deployment using real devices
+
+
+
 - ## Network Topology
-![Topology](topology/network.png)
+![Topology](network.png)
