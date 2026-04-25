@@ -79,9 +79,8 @@ The network was built using Cisco technologies with a focus on scalability, secu
 ## 📂 Project Files
 
 - 📦 [Download Packet Tracer File](project.pkt)  
-- ⚙️ Device Configurations file
-
-- 📄 [View Full Report](report.pdf)
+- ⚙️ [View Device Configurations](network-configurations.pdf)  
+- 📄 [View Full Report](Project_report.pdf)
 
 ---
 
